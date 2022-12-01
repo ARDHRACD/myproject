@@ -1,0 +1,102 @@
+.parent{
+    height: 500px;
+    /* background-color: black; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+     margin-top: 100px;
+}
+.col{
+    width: 500px;
+    height: 800px;
+    border: 2px black solid;
+    margin-top: 520px;
+    border-radius: 30px;
+}
+.col-1{
+    background-color: black;
+}
+.col-2{
+    background-color: black;
+}
+.col-3{
+    background-color: black;
+}
+.col-4{
+    background-color: black;
+}
+.col-5{
+    background-color: black;
+}
+h2{
+    color: antiquewhite;
+    text-align: center;
+}
+button{
+    width: 200px;
+    height: 75px;
+    background-color: rgba(137, 43, 226, 0.738);
+    color: whitesmoke;
+    border-radius: 30px;
+   font-size: x-large;
+}
+button:hover{
+    background-color: whitesmoke;
+    color: rgba(137, 43, 226, 0.738);
+}
+img{
+    width: 100%;
+    height: 350px;
+}
+p{
+    color: azure;
+    font-size: x-large;
+}
+body{
+    background-image: url("./image/food.jpg");
+    background-size: cover;
+}
+h1{
+    /* color: yellow; */
+    margin-top: 100px;
+    text-align: center;
+    /* font-size: xx-large; */
+   
+}
+.f1{
+    text-align: center;
+    margin-top: 130px;
+}
+.f2{
+    text-align: center;
+    margin-top: 128px;
+}
+.f3{
+    text-align: center;
+    margin-top: 182px;
+    
+}
+
+.f4{
+    text-align: center;
+    margin-top: 210px;
+}
+.f5{
+    text-align: center;
+    margin-top: 132px;
+}
+.f6{
+    margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.4;
+  font-weight: bold;
+  /* background: url(klematis.jpg) repeat; */
+  /* border: 2px solid black; */
+}
+span{
+    margin: 5%;
+  font-weight: bold;
+  color: blue;
+  font-size: xx-large;
+}
